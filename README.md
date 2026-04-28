@@ -28,7 +28,7 @@ House_Rent_Prediction/
 │── requirements.txt      # Dependencies
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/gayathribanoth/house-rent-prediction.git
+https://github.com/gayathribanoth/House_Rent_Prediction/edit/main/README.md
 cd house-rent-prediction
 2️⃣ Create virtual environment
 python -m venv .venv
@@ -39,9 +39,6 @@ pip install -r requirements.txt
 python train_model.py
 5️⃣ Run the app
 streamlit run app.py
-📸 Screenshots
-
-👉 Add your app screenshots here
 
 📈 Future Improvements
 Use large real-world datasets
