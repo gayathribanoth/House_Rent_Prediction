@@ -1,0 +1,11 @@
+area,bedrooms,bathrooms,parking,location,furnishing,rent
+600,1,1,0,Hyderabad,Semi,7000
+800,2,1,1,Hyderabad,Furnished,12000
+1200,3,2,1,Hyderabad,Furnished,18000
+1500,3,3,1,Bangalore,Furnished,25000
+1000,2,2,1,Bangalore,Semi,15000
+700,1,1,0,Chennai,Unfurnished,8000
+900,2,2,1,Chennai,Semi,14000
+1100,3,2,1,Delhi,Furnished,20000
+1300,3,3,1,Delhi,Furnished,23000
+500,1,1,0,Pune,Unfurnished,6000
