@@ -28,7 +28,7 @@ House_Rent_Prediction/
 │── requirements.txt      # Dependencies
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/house-rent-prediction.git
+git clone https://github.com/gayathribanoth/house-rent-prediction.git
 cd house-rent-prediction
 2️⃣ Create virtual environment
 python -m venv .venv
